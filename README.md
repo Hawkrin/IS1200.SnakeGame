@@ -1,4 +1,4 @@
-# is1200-snakegame
+Snake programmed on micro controller
 
 The goal of this project was to understand hardware coding.
 
